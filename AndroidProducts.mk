@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ofox_udon.mk
+    $(LOCAL_DIR)/twrp_udon.mk
